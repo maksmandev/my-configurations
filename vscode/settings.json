@@ -1,0 +1,16 @@
+{
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\sh.exe",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\sh.exe",
+    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "npm.enableScriptExplorer": true,
+    "npm.runSilent": true,
+    "prettier.eslintIntegration": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "todohighlight.isEnable": true,
+}
